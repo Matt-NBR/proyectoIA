@@ -1,3 +1,5 @@
+### Disclaimer: original source code is not mine, all credits go to the author
+
 ##  Pedestrian Detection using OpenCV Python
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
